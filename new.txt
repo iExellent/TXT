@@ -1,0 +1,7 @@
+fullname: Zakharov Kirill
+age: 27
+pets: 0
+children: 1) name: Samuel
+              2) age: 1
+              3) gender: male
+desired salary: 600$
