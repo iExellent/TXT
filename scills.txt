@@ -1,0 +1,28 @@
+Skills:
+1) software testing theory
+2) client-server architecture
+3) HTTP server request methods
+4) HTTP server response codes
+5) structures of HTTP requests and responses
+6) JSON and XML structure
+7) API testing with Postman
+8) removing and reading logs from an external server
+9) sniffing http web traffic with Charles and Fiddler
+10) web browser DevTools
+11) VPN
+12) mobile testing
+13) feature iOS, Android, guidelines
+14) building iOS apps with Xcode
+15) building Android applications with Android Studio
+16) ADB
+17) setting up proxy and vpn on iOS and Android
+18) intercepting mobile traffic with Charles and Fiddler on iOS and Android
+19) terminal Linux
+20) basic bash scripting, automation
+21) access to remote servers
+22) SQL basics
+23) Postgres database
+24) Redis non-relational database
+25) load testing in Jmeter
+26) Scrum development methodology
+27) Python basics

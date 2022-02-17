@@ -1,0 +1,5 @@
+favorite film: Star Wars
+favorite series: The office
+favorite food: meat steak
+favorite season: summer
+favorite country: USA
